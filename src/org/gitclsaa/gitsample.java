@@ -11,5 +11,8 @@ public class gitsample {
 
 	}
 	
-	
+	private void sample3() {
+		System.out.println("3");
+
+	}
 }
